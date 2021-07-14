@@ -1,0 +1,54 @@
+body {
+}
+
+.sorce {
+    font-style: italic;
+    font-size: 13px;
+    font-family: serif;
+    text-align: left;
+}
+
+.text-details {
+    font-size: 14px;
+    text-align: left;
+}
+
+.box {
+    border-style: solid;
+    text-align: center;
+}
+
+.white-box {
+    margin:3% 10%;
+    background-color: white;
+}
+
+.silver-box {
+  margin: 5%;
+    background-color: silver;
+    padding: 1% 6%;
+}
+
+.text-title
+{
+  font-size: 75px;
+font-family: monospace;
+}
+.text {
+    font-size: 40px;
+    font-weight: inherit;
+    font-family: fantasy;
+    margin-top: -16px;
+}
+.image-size {
+    width: 100%;
+}
+h2 {
+    font-family: serif;
+}
+.conclusion {
+    text-align: left;
+    font-size: 25px;
+    font-family: sans-serif;
+    margin-bottom: 1px;
+}
